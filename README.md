@@ -1,1 +1,7 @@
 # fullstackopen
+
+```mermaid
+
+
+
+```
